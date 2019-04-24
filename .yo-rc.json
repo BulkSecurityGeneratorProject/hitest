@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.hitest"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "hitest",
+        "packageName": "com.hitest",
+        "packageFolder": "com/hitest",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZTZmODFkODgzNTM1YmM1NDU2M2IyNDRkNzFiNjVmNGJkMDA1N2YxNWVlNDBkZjlhM2EzOTE0MTAxMDU2OWE5ZWU5MzU4ODljYjQ3YWY1MjA4N2E2NTE4ZTY5MTlhMjZmMDBjMGQ3ZTczZDRkM2Q2M2Q3OWExMjkwZjQwN2EzNjc=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
